@@ -1,4 +1,4 @@
-package com.codecool;
+package com.codecool.java;
 
 public class FilePartReader {
 
